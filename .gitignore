@@ -1,0 +1,13 @@
+tags
+test.sh
+.luarc.json
+nvim
+
+spell/
+
+# Track nvim-pack-lock.json to preserve plugin revisions.
+
+# Local editor backups are kept in the full backup archive.
+*.bak-*
+
+.DS_Store
